@@ -9,9 +9,10 @@ Pastebin-Lite is a lightweight web application that allows users to create and s
 
 1. Clone the Repository
 git clone https://github.com/Srushtipatel14/pastebin_lite.git
+
 cd pastebin-lite
 
-2. Backend Setup
+3. Backend Setup
 cd backend
 npm install
 
