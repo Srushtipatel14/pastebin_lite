@@ -18,10 +18,10 @@ npm install
 
 Create a .env file inside the backend folder:
 
-<!-- REDIS_URL=https://living-goldfish-21829.upstash.io
+REDIS_URL=https://living-goldfish-21829.upstash.io
 REDIS_TOKEN=AVVFAAIncDE0ZDdiN2YyNjg0YmQ0MGI2OGEwYzhiMzBjZDUyMjg4ZXAxMjE4Mjk
 TEST_MODE=0
-PORT=8000 -->
+PORT=8000
 
 Start the backend server:
 
