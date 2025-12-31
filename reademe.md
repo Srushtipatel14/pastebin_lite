@@ -8,21 +8,27 @@ Pastebin-Lite is a lightweight web application that allows users to create and s
 ======================================================================================================
 
 1. Clone the Repository
-git clone https://github.com/Srushtipatel14/pastebin_lite.git
+   
+   git clone https://github.com/Srushtipatel14/pastebin_lite.git
 
-cd pastebin-lite
+   cd pastebin-lite
 
 3. Backend Setup
-cd backend
-npm install
+
+   cd backend
+
+   npm install
 
 
 Create a .env file inside the backend folder:
 
-REDIS_URL=https://living-goldfish-21829.upstash.io
-REDIS_TOKEN=AVVFAAIncDE0ZDdiN2YyNjg0YmQ0MGI2OGEwYzhiMzBjZDUyMjg4ZXAxMjE4Mjk
-TEST_MODE=0
-PORT=8000
+  REDIS_URL=https://living-goldfish-21829.upstash.io
+
+  REDIS_TOKEN=AVVFAAIncDE0ZDdiN2YyNjg0YmQ0MGI2OGEwYzhiMzBjZDUyMjg4ZXAxMjE4Mjk
+  
+  TEST_MODE=0
+  
+  PORT=8000
 
 Start the backend server:
 
@@ -39,9 +45,11 @@ http://localhost:8000
 
 Open a new terminal:
 
-cd frontend
-npm install
-npm start
+  cd frontend
+  
+  npm install
+
+  npm start
 
 
 Frontend will run on:
